@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Database System
 
 ## Project Overview
@@ -56,3 +57,7 @@ The database manages:
 - PostgreSQL
 - SQL
 - Visual Studio Code
+=======
+# ecommerce-database-system
+SQL database project for an online store management system
+>>>>>>> d194c8827f8c73541151b2f29b451a2dad0d8589
